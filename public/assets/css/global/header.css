@@ -1,0 +1,102 @@
+/* Reinicia márgenes y establece fuente */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* Header ocupa todo el ancho, con display flex para separar las dos áreas */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Área del menú izquierdo */
+.menu-izquierda {
+  position: relative;
+
+}
+
+/* Botón del menú: sin fondo */
+.menu-toggle {
+    width: 60px;
+    height: 60px;
+    background: url('/public/assets/img/global/logo_menu_hamburgesa.webp') no-repeat center center;
+    background-size: contain;
+    border: none;
+    cursor: pointer;
+    background-color: transparent; /* Sin fondo */
+  }
+  
+
+/* Menú de navegación: inicialmente oculto fuera de pantalla */
+.menu-navegacion {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+    z-index: 999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Cuando está activo, se muestra ocupando toda la pantalla */
+  .menu-navegacion.active {
+    transform: translateX(0);
+  }
+  
+  /* Estilos para la lista de navegación centrada y más grande */
+  .menu-navegacion ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .menu-navegacion li {
+    margin: 20px 0;
+  }
+  
+  .menu-navegacion a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 36px; /* tamaño aumentado */
+  }
+  
+
+/* Área derecha: display con fondo para resaltarlo */
+.menu-derecha {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    text-align: center;
+    border-bottom-left-radius: 10px;
+}
+
+/* Estilos para los corazones y el temporizador */
+#hearts {
+  margin: 5px 0;
+}
+.heart {
+  font-size: 24px;
+  margin: 0 2px;
+}
+#timer {
+  font-size: 18px;
+  margin-top: 5px;
+}

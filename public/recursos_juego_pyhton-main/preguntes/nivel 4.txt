@@ -1,0 +1,120 @@
+Nivel 4 – Avanzado
+¿Qué método convierte una lista en una cadena separada por comas?
+a) concat()
+b) combine()
+c) ",".join(lista) ✅
+d) merge()
+
+¿Qué hace zip([1, 2], ["a", "b"])?
+a) Combina elementos en pares ✅
+b) Multiplica listas
+c) Ordena listas
+d) Separa listas
+
+¿Qué palabra clave se usa para heredar de otra clase?
+a) super
+b) inherits
+c) extends
+d) class NuevaClase(ClasePadre): ✅
+
+¿Qué hace el método update() en un diccionario?
+a) Reemplaza valores existentes o agrega nuevos ✅
+b) Ordena claves
+c) Borra claves
+d) Crea una copia
+
+¿Qué significa __init__ en una clase?
+a) Destructor
+b) Constructor ✅
+c) Función global
+d) Método mágico para sumar
+
+¿Qué tipo de error se produce al dividir por cero?
+a) SyntaxError
+b) ValueError
+c) ZeroDivisionError ✅
+d) TypeError
+
+¿Qué hace isinstance(5, int)?
+a) Compara igualdad
+b) Devuelve True si es instancia de int ✅
+c) Lanza excepción
+d) Crea objeto
+
+¿Qué devuelve all([True, True, False])?
+a) True
+b) False ✅
+c) None
+d) Error
+
+¿Qué hace any([False, False, True])?
+a) False
+b) True ✅
+c) None
+d) Error
+
+¿Qué hace el método strip() en una cadena?
+a) Convierte a mayúsculas
+b) Elimina espacios al inicio y fin ✅
+c) Corta texto
+d) Rellena espacios
+
+¿Qué módulo se importa para generar números aleatorios?
+a) math
+b) random ✅
+c) statistics
+d) time
+
+¿Qué función genera un número entre 1 y 10?
+a) random(1,10)
+b) random.randint(1,10) ✅
+c) rand(1,10)
+d) int.random(1,10)
+
+¿Cuál es el valor de not True or False?
+a) True
+b) False ✅
+c) None
+d) Error
+
+¿Qué hace el método copy() en una lista?
+a) Borra la lista
+b) Devuelve una copia superficial ✅
+c) Reemplaza elementos
+d) Revierte el orden
+
+¿Qué imprime print([i for i in range(3)])?
+a) [0, 1, 2] ✅
+b) 012
+c) range(3)
+d) Error
+
+¿Qué operador se usa para comprobar si dos variables apuntan al mismo objeto?
+a) ==
+b) is ✅
+c) equals()
+d) !=
+
+¿Cuál es la diferencia entre is y ==?
+a) is compara valores
+b) == compara identidad
+c) is compara identidad ✅
+d) No hay diferencia
+
+¿Qué función devuelve el valor absoluto de un número?
+a) fabs()
+b) abs() ✅
+c) absolute()
+d) mod()
+
+¿Qué hace sorted([3, 1, 2])?
+a) Ordena la lista original
+b) Devuelve una nueva lista ordenada ✅
+c) Modifica la lista
+d) Crea un set
+
+¿Qué hace reversed([1, 2, 3])?
+a) Invierte los valores en el lugar
+b) Devuelve un iterador en orden inverso ✅
+c) Ordena descendente
+d) Borra la lista

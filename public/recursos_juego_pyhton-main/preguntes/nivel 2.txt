@@ -1,0 +1,120 @@
+ Nivel 2 – Básico
+¿Qué operador se usa para elevar un número a una potencia?
+a) ^
+b) ** ✅
+c) pow()
+d) //
+
+¿Cuál de las siguientes opciones es una tupla válida?
+a) [1, 2, 3]
+b) {1, 2, 3}
+c) (1, 2, 3) ✅
+d) <1, 2, 3>
+
+¿Qué método convierte una cadena a mayúsculas?
+a) capitalize()
+b) upper() ✅
+c) uppercase()
+d) toUpper()
+
+¿Cómo se accede al primer elemento de una lista mi_lista?
+a) mi_lista.0
+b) mi_lista[1]
+c) mi_lista[0] ✅
+d) mi_lista.first
+
+¿Qué hace el método split() en una cadena?
+a) Une cadenas
+b) Divide en caracteres
+c) Separa la cadena en una lista ✅
+d) Borra la cadena
+
+¿Qué estructura se usa para repetir código mientras una condición sea verdadera?
+a) if
+b) for
+c) while ✅
+d) loop
+
+¿Qué palabra clave se usa para condicionales en Python?
+a) cond
+b) if ✅
+c) when
+d) case
+
+¿Cómo se termina un bloque de código en Python?
+a) Con end
+b) Con llaves {}
+c) Con indentación ✅
+d) Con punto y coma
+
+¿Qué palabra clave detiene un bucle inmediatamente?
+a) stop
+b) exit
+c) break ✅
+d) return
+
+¿Qué devuelve range(3)?
+a) [1, 2, 3]
+b) [0, 1, 2] ✅
+c) [0, 1, 2, 3]
+d) [1, 2]
+
+¿Cuál es el índice del último elemento de una lista de 5 elementos?
+a) 4 ✅
+b) 5
+c) -1
+d) 0
+
+¿Qué operador se usa para concatenar listas?
+a) + ✅
+b) &
+c) *
+d) concat
+
+¿Cuál de las siguientes estructuras es inmutable?
+a) Lista
+b) Set
+c) Diccionario
+d) Tupla ✅
+
+¿Cómo se declara un diccionario vacío?
+a) []
+b) ()
+c) {} ✅
+d) null
+
+¿Qué hace mi_dict.get("clave")?
+a) Lanza error si no existe
+b) Retorna el valor o None ✅
+c) Borra la clave
+d) Actualiza la clave
+
+¿Qué devuelve bool("")?
+a) True
+b) False ✅
+c) None
+d) Error
+
+¿Cómo se convierte un string a número entero?
+a) int() ✅
+b) float()
+c) str()
+d) bool()
+
+¿Qué función se usa para pedir datos al usuario?
+a) input() ✅
+b) read()
+c) gets()
+d) scanf()
+
+¿Qué tipo de estructura permite almacenar pares clave:valor?
+a) Lista
+b) Tupla
+c) Diccionario ✅
+d) Set
+
+¿Qué operador lógico representa “o”?
+a) ||
+b) or ✅
+c) |
+d) else

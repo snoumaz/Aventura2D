@@ -1,0 +1,104 @@
+💻 Tecnología
+Ordenador de sobremesa
+
+Monitor
+
+Teclado
+
+Ratón
+
+Portátil
+
+Tablet
+
+Proyector
+
+Router
+
+Switch de red
+
+Cable Ethernet
+
+Disco duro externo
+
+Memoria USB
+
+Raspberry Pi
+
+Impresora
+
+Escáner
+
+SAI (sistema de alimentación ininterrumpida)
+
+Pantalla interactiva
+
+Webcam
+
+Auriculares
+
+Micrófono
+
+🛠️ Accesorios y herramientas
+Cinta adhesiva
+
+Destornilladores
+
+Multímetro
+
+Caja de herramientas
+
+Cables varios (HDMI, VGA, alimentación)
+
+Regleta eléctrica
+
+Adaptadores (USB-C, HDMI, etc.)
+
+Spray de aire comprimido
+
+Paño de limpieza para pantallas
+
+Manuales de mantenimiento
+
+📚 Material académico
+Libros de programación
+
+Cuadernos de notas
+
+Pizarra blanca
+
+Rotuladores de pizarra
+
+Goma de borrar
+
+Notas adhesivas
+
+Manuales técnicos
+
+Carteles con diagramas UML
+
+Esquemas de redes
+
+Guías de lenguaje (Python, JavaScript, C++)
+
+🪑 Mobiliario y ambiente
+Mesa de trabajo
+
+Silla giratoria
+
+Armario o taquilla
+
+Ventilador o aire acondicionado
+
+Reloj de pared
+
+Papelera
+
+Cortinas o persianas
+
+Lámpara de escritorio
+
+Taza de café olvidada
+
+Mochila con pegatinas geek
+

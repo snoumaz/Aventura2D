@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula de Programación - Aventura Gráfica</title>
+    <style>
+        body { margin: 0; padding: 0; overflow: hidden; }
+        #game-container {
+            position: relative;
+            width: 1200px;
+            height: 800px;
+            background: url('https://i.imgur.com/9Z5Fqyl.jpg') no-repeat center center;
+            background-size: cover;
+            margin: 0 auto;
+        }
+        .clickable-object {
+            position: absolute;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+        .clickable-object:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container">
+        <img src="https://i.imgur.com/RyZz8Z0.png" alt="Computadora" class="clickable-object" style="top: 450px; left: 400px; width: 150px;">
+
+        <img src="https://i.imgur.com/gm4mC3n.png" alt="Pizarra con código" class="clickable-object" style="top: 100px; left: 350px; width: 500px;">
+
+        <img src="https://i.imgur.com/Wt7dKQb.png" alt="Libros de programación" class="clickable-object" style="top: 550px; left: 700px; width: 120px;">
+
+        <img src="https://i.imgur.com/XjBGVzE.png" alt="Silla" class="clickable-object" style="top: 600px; left: 430px; width: 150px;">
+
+        <img src="https://i.imgur.com/8jw9FYC.png" alt="Notas adhesivas" class="clickable-object" style="top: 220px; left: 900px; width: 100px;">
+    </div>
+
+    <script>
+        document.querySelectorAll('.clickable-object').forEach(obj => {
+            obj.addEventListener('click', () => alert(`Has clicado en: ${obj.alt}`));
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+1 - Pizarras:
+
+Pizarra blanca con marcadores.
+Pizarra verde con tiza.
+
+2 - Mesas y Sillas:
+
+Mesas de estudiantes.
+Sillas de estudiantes.
+Escritorio del profesor.
+
+3 - Material de Escritura:
+
+Libros y cuadernos.
+Lápices, bolígrafos y gomas de borrar.
+Calculadoras.
+
+4 - Equipos Electrónicos:
+
+Ordenadores portátiles.
+Proyector y pantalla.
+Tablets.
+
+5 - Decoración y Otros:
+
+Reloj de pared.
+Mapas y pósteres educativos.
+Plantas en macetas.
+
+6 - Objetos de Programación:
+
+Manuales de Python.
+Diagramas de flujo.
+Códigos QR para pistas.
+
+7 - Elementos de Misterio:
+
+Cajas cerradas con candados.
+Llaves y pistas ocultas.
+Notas y mensajes cifrados.

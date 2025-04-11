@@ -1,0 +1,121 @@
+Nivel 1 – Principiante
+¿Qué función se utiliza para mostrar información en pantalla?
+a) input()
+b) write()
+c) print() ✅
+d) output()
+
+¿Cuál de estos es un tipo de dato en Python?
+a) letter
+b) character
+c) int ✅
+d) digit
+
+¿Cómo se comenta una línea en Python?
+a) //
+b) # ✅
+c) /* */
+d) <!-- -->
+
+¿Cuál es el resultado de 2 + 3 * 2?
+a) 10
+b) 12
+c) 7 ✅
+d) 8
+
+¿Qué tipo de dato devuelve input()?
+a) int
+b) bool
+c) str ✅
+d) float
+
+¿Qué operador se usa para la división entera?
+a) /
+b) // ✅
+c) %
+d) **
+
+¿Cómo se obtiene el resto de una división?
+a) /
+b) //
+c) % ✅
+d) mod()
+
+¿Cuál es la función para saber el tipo de una variable?
+a) typeof()
+b) type() ✅
+c) kind()
+d) gettype()
+
+¿Qué palabra clave se usa para declarar una función?
+a) function
+b) def ✅
+c) fun
+d) declare
+
+¿Cuál es el valor de True and False?
+a) True
+b) False ✅
+c) None
+d) 1
+
+¿Cómo se escribe una cadena multilínea?
+a) 'texto'
+b) "texto"
+c) '''texto''' ✅
+d) #texto#
+
+¿Cuál es el resultado de len("Hola")?
+a) 3
+b) 4 ✅
+c) 5
+d) error
+
+¿Qué operador compara igualdad?
+a) =
+b) == ✅
+c) ===
+d) eq
+
+¿Cuál es el valor booleano de 0?
+a) True
+b) False ✅
+c) None
+d) Error
+
+¿Cómo se imprime "Hola, Mundo"?
+a) echo "Hola, Mundo"
+b) print("Hola, Mundo") ✅
+c) say "Hola, Mundo"
+d) output("Hola, Mundo")
+
+¿Cómo se declara una lista vacía?
+a) [] ✅
+b) {}
+c) ()
+d) null
+
+¿Qué método agrega un elemento a una lista?
+a) add()
+b) append() ✅
+c) push()
+d) insert()
+
+¿Qué tipo de dato es True?
+a) int
+b) bool ✅
+c) str
+d) none
+
+¿Qué hace print("2" + "3")?
+a) 5
+b) 23 ✅
+c) error
+d) 6
+
+¿Cómo se obtiene la longitud de una lista?
+a) length()
+b) count()
+c) len() ✅
+d) size()
+

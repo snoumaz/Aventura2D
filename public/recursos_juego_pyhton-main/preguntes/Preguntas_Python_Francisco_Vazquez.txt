@@ -1,0 +1,122 @@
+1. ¿Qué tipo de lenguaje de programación es Python?
+
+a) Compilado
+b) Ensamblador
+c) Interpretado ✅
+d) Binario
+
+¿Qué función se utiliza para mostrar algo en la consola en Python?
+
+A) input()
+B) write()
+C) print() ✅
+D) show()
+
+¿Cuál es el resultado de 3 + 2 * 2 en Python?
+
+A) 10
+B) 7 ✅
+C) 9
+D) 12
+
+4. ¿Cuál es la manera correcta de crear una lista en Python?
+A) list = "uno", "dos", "tres"
+B) list = ["uno", "dos", "tres"] ✅
+C) list = ("uno", "dos", "tres")
+D) list = {uno, dos, tres}
+
+5. ¿Qué operador se utiliza para asignar un valor a una variable?
+A) ==
+B) :=
+C) = ✅
+D) =>
+
+6. ¿Qué palabra clave se usa para definir una función en Python?
+A) func
+B) define
+C) def ✅
+D) function
+
+7. ¿Qué devuelve la función len([1, 2, 3, 4])?
+A) 5
+B) 3
+C) 4 ✅
+D) Error
+
+8. ¿Cuál de los siguientes es un bucle en Python?
+A) repeat
+B) while ✅
+C) loop
+D) until
+
+9. ¿Cuál es el valor de True and False?
+A) True
+B) False ✅
+C) Error
+D) None
+
+10. ¿Qué imprime print(type("Hola"))?
+A) <class 'int'>
+B) <class 'str'> ✅
+C) <class 'char'>
+D) <type string>
+
+11. ¿Qué hace el operador // en Python?
+A) División normal
+B) Exponenciación
+C) División entera ✅
+D) Módulo
+
+12. ¿Cuál es la forma correcta de comenzar una estructura condicional en Python?
+A) if x == y then
+B) if (x == y): ✅
+C) if x == y {}
+D) if x = y:
+
+13. ¿Qué imprime print(2 ** 3)?
+A) 6
+B) 8 ✅
+C) 9
+D) 5
+
+14. ¿Qué palabra se usa para manejar excepciones en Python?
+A) exception
+B) try ✅
+C) error
+D) handle
+
+15. ¿Cuál es el resultado de bool("")?
+A) True
+B) False ✅
+C) Error
+D) None
+
+16. ¿Qué estructura se usa para almacenar pares clave-valor en Python?
+A) list
+B) tuple
+C) dictionary ✅
+D) set
+
+17. ¿Cuál es la función para obtener la entrada del usuario en Python 3?
+A) raw_input()
+B) get()
+C) input() ✅
+D) enter()
+
+18. ¿Cuál es la salida de print("Hola"[1])?
+A) H
+B) o ✅
+C) l
+D) a
+
+19. ¿Cuál de las siguientes opciones representa un comentario de una línea en Python?
+A) // Esto es un comentario
+B) <!-- Esto es un comentario -->
+C) # Esto es un comentario ✅
+D) /* Esto es un comentario */
+
+20. ¿Qué hace range(5)?
+A) Crea una lista con 5 elementos aleatorios
+B) Genera los números del 1 al 5
+C) Genera los números del 0 al 5
+D) Genera los números del 0 al 4 ✅

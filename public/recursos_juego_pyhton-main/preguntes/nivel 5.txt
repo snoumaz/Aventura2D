@@ -1,0 +1,121 @@
+ Nivel 5 – Experto
+¿Qué hace la función filter() en Python?
+a) Ordena una lista
+b) Aplica una función y elimina elementos False ✅
+c) Elimina duplicados
+d) Transforma elementos
+
+¿Cuál es el resultado de map(str, [1, 2, 3])?
+a) ['1', '2', '3']
+b) map object ✅
+c) Error
+d) None
+
+¿Qué hace el operador := en Python 3.8+?
+a) Asignación clásica
+b) Operador ternario
+c) Asignación en expresión (walrus operator) ✅
+d) Operador de igualdad
+
+¿Qué módulo se usa para trabajar con fechas y horas?
+a) calendar
+b) datetime ✅
+c) timeit
+d) clock
+
+¿Qué método se usa para lanzar excepciones personalizadas?
+a) raise ✅
+b) throw
+c) try
+d) error()
+
+¿Qué hace el bloque finally en una estructura try-except?
+a) Se ejecuta si no hay error
+b) Solo si hay error
+c) Siempre se ejecuta ✅
+d) Ignora la excepción
+
+¿Qué método convierte un diccionario en una lista de tuplas?
+a) items() ✅
+b) values()
+c) pairs()
+d) tuples()
+
+¿Cuál es el propósito de with open(...) as f:?
+a) Cerrar archivo automáticamente ✅
+b) Evitar errores
+c) Aumentar rendimiento
+d) Crear backups
+
+¿Qué hace set.intersection(set2)?
+a) Une los sets
+b) Resta sets
+c) Devuelve elementos comunes ✅
+d) Ordena elementos
+
+¿Qué significa __str__ en una clase?
+a) Representación para debug
+b) Representación para usuarios ✅
+c) Constructor
+d) Destructor
+
+¿Qué hace lambda x: x + 1?
+a) Define una clase
+b) Define una función anónima ✅
+c) Crea una variable
+d) Declara una constante
+
+¿Qué significa *args en una función?
+a) Parámetros obligatorios
+b) Argumentos con nombre
+c) Número variable de argumentos posicionales ✅
+d) Argumentos por defecto
+
+¿Y **kwargs?
+a) Argumentos posicionales
+b) Argumentos como lista
+c) Argumentos con nombre variable ✅
+d) Solo se usa en clases
+
+¿Qué hace el método isalpha() en una cadena?
+a) Comprueba si hay solo números
+b) Comprueba si hay solo letras ✅
+c) Capitaliza la cadena
+d) Reemplaza caracteres
+
+¿Qué hace assert x > 0?
+a) Lanza excepción si x <= 0 ✅
+b) Verifica que x sea verdadero
+c) Compara si x == 0
+d) Crea una condición booleana
+
+¿Cuál es el tipo de None en Python?
+a) str
+b) bool
+c) NoneType ✅
+d) null
+
+¿Qué imprime globals()?
+a) Variables locales
+b) Variables globales ✅
+c) Variables de clase
+d) Variables externas
+
+¿Qué hace el decorador @staticmethod?
+a) Crea funciones que acceden a self
+b) Crea funciones sin acceso a self ✅
+c) Crea métodos de clase
+d) Convierte una función en generador
+
+¿Cuál es el propósito del decorador @property?
+a) Crear métodos privados
+b) Crear atributos que se acceden como propiedades ✅
+c) Evitar el uso de __init__
+d) Ocultar atributos
+
+¿Qué significa PEP en el contexto de Python?
+a) Python Example Project
+b) Python Expert Program
+c) Python Enhancement Proposal ✅
+d) Python Engineering Platform
+

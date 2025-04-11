@@ -1,0 +1,121 @@
+Nivel 3 – Intermedio
+¿Qué hace el método .append() en una lista?
+a) Reemplaza elementos
+b) Inserta al principio
+c) Agrega un elemento al final ✅
+d) Ordena la lista
+
+¿Cuál es el resultado de bool("False")?
+a) False
+b) None
+c) True ✅
+d) Error
+
+¿Qué hace el operador in?
+a) Compara valores
+b) Asigna variables
+c) Verifica pertenencia ✅
+d) Realiza iteraciones
+
+¿Cuál es la salida de type([])?
+a) <class 'tuple'>
+b) <class 'list'> ✅
+c) <class 'set'>
+d) <class 'dict'>
+
+¿Qué hace list("hola")?
+a) ['hola']
+b) ['h', 'o', 'l', 'a'] ✅
+c) hola
+d) Error
+
+¿Qué método elimina y devuelve el último elemento de una lista?
+a) del()
+b) pop() ✅
+c) remove()
+d) delete()
+
+¿Qué hace dict.keys()?
+a) Devuelve los valores
+b) Devuelve las claves ✅
+c) Elimina claves
+d) Ordena claves
+
+¿Cómo se accede al valor de una clave en un diccionario?
+a) dict.clave
+b) dict("clave")
+c) dict["clave"] ✅
+d) dict.getclave
+
+¿Qué valor tiene la variable después de: x = [1, 2]; x[0] = 5?
+a) [1, 2]
+b) [5, 2] ✅
+c) [0, 2]
+d) [2, 5]
+
+¿Cuál es el resultado de "Hola".lower()?
+a) HOLA
+b) hola ✅
+c) Hola
+d) HoLa
+
+¿Cuál es la forma correcta de abrir un archivo para lectura?
+a) open("archivo.txt", "r") ✅
+b) open("archivo.txt", "w")
+c) open.read("archivo.txt")
+d) file.open("archivo.txt")
+
+¿Qué hace enumerate(lista)?
+a) Devuelve los índices y valores ✅
+b) Solo los valores
+c) Solo los índices
+d) Crea una lista nueva
+
+¿Qué hace el operador not en Python?
+a) Niega una condición ✅
+b) Compara igualdad
+c) Multiplica
+d) Cambia tipo
+
+¿Qué imprime print("a" * 3)?
+a) aaa ✅
+b) a3
+c) Error
+d) a a a
+
+¿Qué estructura usa la sintaxis for x in range(5):?
+a) Condicional
+b) Repetitiva ✅
+c) Definición
+d) Selección
+
+¿Qué palabra clave define una clase?
+a) define
+b) object
+c) class ✅
+d) type
+
+¿Qué método convierte un número a cadena?
+a) int()
+b) str() ✅
+c) float()
+d) chr()
+
+¿Cómo se convierte una lista en conjunto (set)?
+a) set() ✅
+b) list()
+c) tuple()
+d) dict()
+
+¿Qué hace el método clear() en una lista?
+a) Elimina el último
+b) Borra todos los elementos ✅
+c) Ordena
+d) Invierte
+
+¿Cuál es el resultado de 3 in [1, 2, 3]?
+a) True ✅
+b) False
+c) None
+d) Error
+

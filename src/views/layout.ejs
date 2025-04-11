@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <%- include('partials/head') %>
+</head>
+<body>
+    <%- include('partials/header') %>
+    <main>
+        <%- include('paginas/plantilla') %>
+    </main>
+    <%- include('partials/footer') %>
+<script
+    type="module"
+    src="/assets/js/main.js"
+    <%= typeof nonce !== 'undefined' ? `nonce="${nonce}"` : "" %>
+</script>
+</body>
+</html>

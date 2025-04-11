@@ -1,0 +1,49 @@
+Acertijo 1: Desencriptar un Mensaje
+Descripción: Los alumnos encuentran un mensaje cifrado que deben desencriptar usando Python.
+
+Pista: El mensaje está cifrado usando el cifrado César con un desplazamiento de 3.
+
+Acertijo 2: Encontrar la Clave Secreta
+Descripción: Los alumnos deben encontrar una clave secreta oculta en una lista de números.
+
+Pista: La clave secreta es el número que aparece más veces en la lista.
+
+Acertijo 3: Resolver un Laberinto
+Descripción: Los alumnos deben escribir un programa que encuentre la salida de un laberinto representado por una matriz.
+
+Pista: Utiliza una búsqueda en profundidad (DFS) para encontrar el camino.
+
+Acertijo 4: Ordenar una Lista de Nombres
+Descripción: Los alumnos encuentran una lista desordenada de nombres y deben ordenarla alfabéticamente usando Python.
+
+Pista: Utiliza un algoritmo de ordenación como el método de la burbuja o la ordenación rápida.
+
+Acertijo 5: Contar Palabras en un Texto
+Descripción: Los alumnos deben escribir un programa que cuente el número de veces que aparece cada palabra en un texto dado.
+
+Pista: Utiliza un diccionario para almacenar las palabras y sus frecuencias.
+
+Acertijo 6: Verificar un Palíndromo
+Descripción: Los alumnos deben determinar si una cadena de texto es un palíndromo (se lee igual de adelante hacia atrás).
+
+Pista: Ignora los espacios y la puntuación, y considera solo las letras.
+
+Acertijo 7: Generar una Secuencia de Fibonacci
+Descripción: Los alumnos deben generar los primeros n números de la secuencia de Fibonacci.
+
+Pista: La secuencia de Fibonacci comienza con 0 y 1, y cada número siguiente es la suma de los dos anteriores.
+
+Acertijo 8: Calcular el Factorial de un Número
+Descripción: Los alumnos deben calcular el factorial de un número dado.
+
+Pista: El factorial de un número n es el producto de todos los enteros positivos menores o iguales a n.
+
+Acertijo 9: Encontrar Números Primos
+Descripción: Los alumnos deben encontrar todos los números primos menores que un número dado.
+
+Pista: Un número primo es un número mayor que 1 que solo tiene dos divisores: 1 y él mismo.
+
+Acertijo 10: Invertir una Cadena de Texto
+Descripción: Los alumnos deben escribir un programa que invierta una cadena de texto.
+
+Pista: Utiliza técnicas de manipulación de cadenas para invertir el orden de los caracteres.

@@ -1,0 +1,167 @@
+Cuestionario de Python (Nivel Fácil, Medio y Difícil)
+
+1. ¿Qué es Python?**  
+a) Un sistema operativo  
+b) Un lenguaje de programación  
+c) Un navegador web  
+d) Una base de datos  
+Respuesta correcta: b) 
+2. ¿Cómo se declara una variable en Python? 
+a)int x = 5 
+b)var x = 5  
+c)x = 5`  
+d)x := 5`  
+Respuesta correcta: c) 
+3. ¿Cuál es el tipo de dato de `True` en Python?**  
+a)int 
+b)string 
+c)bool  
+d)float  
+Respuesta correcta: c)  
+
+4. ¿Qué estructura permite almacenar pares clave-valor?**  
+a) Lista  
+b) Tupla  
+c) Diccionario  
+d) Conjunto  
+Respuesta correcta: c) 
+
+¿Qué es Python?
+A) Un sistema operativo
+B) Un lenguaje de programación
+C) Un navegador web
+D) Una base de datos
+Respuesta correcta: B
+
+¿Cómo se declara una variable en Python?
+A) int x = 5
+B) var x = 5
+C) x = 5
+D) x := 5
+Respuesta correcta: C
+
+¿Cuál es el tipo de dato de True en Python?
+A) int
+B) string
+C) bool
+D) float
+Respuesta correcta: C
+
+¿Qué estructura permite almacenar pares clave-valor?
+A) Lista
+B) Tupla
+C) Diccionario
+D) Conjunto
+Respuesta correcta: C
+
+¿Cuál de estos es un bucle en Python?
+A) repeat
+B) until
+C) for
+D) loop
+Respuesta correcta: C
+
+¿Qué imprime este código? print(2**3)
+A) 6
+B) 8
+C) 9
+D) 23
+Respuesta correcta: B
+
+¿Qué palabra se usa para definir una función?
+A) function
+B) define
+C) fun
+D) def
+Respuesta correcta: D
+
+¿Qué operador se usa para comparar igualdad?
+A) =
+B) :=
+C) ==
+D) ===
+Respuesta correcta: C
+
+¿Cómo se accede al segundo elemento de una lista lista =?
+A) lista(1)
+B) lista
+C) lista{1}
+D) lista<1>
+Respuesta correcta: B
+
+¿Cuál es el resultado de len("Hola")?
+A) 3
+B) 4
+C) 5
+D) Error
+Respuesta correcta: B
+
+¿Qué es una función lambda?
+A) Una función sin nombre
+B) Una función recursiva
+C) Una función que usa bucles
+D) Una función en Java
+Respuesta correcta: A
+
+¿Qué hace el siguiente código? list(range(3))
+A) Crea una lista vacía
+B) Crea
+C) Crea
+D) Lanza un error
+Respuesta correcta: B
+
+¿Cuál es la forma correcta de manejar errores?
+A) try-catch
+B) try-error
+C) try-except
+D) check-error
+Respuesta correcta: C
+
+¿Cuál es la diferencia entre append() y extend()?
+A) Ninguna
+B) append() añade un solo elemento, extend() varios
+C) append() elimina elementos
+D) extend() ordena la lista
+Respuesta correcta: B
+
+¿Qué imprime print("Hola")?
+A) H
+B) o
+C) l
+D) a
+Respuesta correcta: B
+
+¿Qué significa que Python es interpretado?
+A) No necesita internet
+B) Se compila a lenguaje máquina
+C) Se ejecuta línea por línea
+D) Es más rápido que C++
+Respuesta correcta: C
+
+¿Qué es PEP8?
+A) Un editor de texto
+B) Una guía de estilo para escribir código Python
+C) Un lenguaje de programación
+D) Una función especial
+Respuesta correcta: B
+
+¿Qué significa paso por referencia?
+A) Copiar el valor de una variable
+B) Enviar la dirección en memoria
+C) Imprimir una variable
+D) Declarar una función
+Respuesta correcta: B
+
+¿Qué es un decorador en Python?
+A) Un tipo de variable
+B) Una herramienta para HTML
+C) Una función que modifica otra
+D) Una clase especial
+Respuesta correcta: C
+
+¿Para qué sirve init en una clase?
+A) Elimina objetos
+B) Define métodos
+C) Inicializa un objeto
+D) Importa librerías
+Respuesta correcta: C
