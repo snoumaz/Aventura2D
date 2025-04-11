@@ -1,10 +1,11 @@
 ## Instalacion para acer funcionar el proyecto y hacer pruebas
 
+# Permitir script windows
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 # Instalacion
 >> npm init -y
->> npm install express ejs
 >> npm install express-ejs-layouts
-
 
 # Ejecutar terminal
 >> node .\src\app.js
