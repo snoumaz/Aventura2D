@@ -6,13 +6,10 @@
 <body>
     <%- include('partials/header') %>
     <main>
-        <%- include('paginas/plantilla') %>
+        <%- body %>
     </main>
     <%- include('partials/footer') %>
-<script
-    type="module"
-    src="/assets/js/main.js"
-    <%= typeof nonce !== 'undefined' ? `nonce="${nonce}"` : "" %>
-</script>
+<script type="module" src="/assets/js/main.js"></script>
+
 </body>
 </html>

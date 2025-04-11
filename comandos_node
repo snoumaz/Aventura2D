@@ -1,0 +1,13 @@
+## Instalacion para acer funcionar el proyecto y hacer pruebas
+
+# Instalacion
+>> npm init -y
+>> npm install express ejs
+>> npm install express-ejs-layouts
+
+
+# Ejecutar terminal
+>> node .\src\app.js
+
+# Visualizar
+Servidor en http://localhost:3000
